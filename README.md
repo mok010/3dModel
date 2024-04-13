@@ -1,5 +1,9 @@
 # 3DS를 통해 3D 모델링을 해보자
 
+
+### 가상 병원 제작 
+### 3ds로 소품들의 모델을 구상하고 유니티에서 가상병원을 제작하며 소품과 구조를 제작하였다.
+
 ![스크린샷 2024-04-12 212308](https://github.com/mok010/3dModel/assets/76732607/0ebd24db-7cf3-4475-86ad-8262e0d2ae53)
 ![스크린샷 2024-04-12 212223](https://github.com/mok010/3dModel/assets/76732607/abb8444d-e5cd-4e5a-9646-310cdb519aa7)
 ![스크린샷 2024-04-12 212049](https://github.com/mok010/3dModel/assets/76732607/e2833607-b4a2-409e-9357-81b5fddacf6f)
